@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Impression Image](https://i.imgur.com/6d95elJ.png)
 ### Bio
 Software Engineer with 6 years experience in the British games industry, and 1 year in the Swiss investment banking industry.
