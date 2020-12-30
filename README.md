@@ -7,6 +7,8 @@ Software Engineer with 6 years experience in the British games industry, and 1 y
 - 💬 Ask me about .NET, C#, Unreal Engine, and C++
 - 📫 How to reach me: lucshelton@gmail.com
 
+---
+
 ### Languages
 Some languages I use.
 - C++
@@ -17,6 +19,8 @@ Some languages I use.
 #### Learning
 - Kotlin
 - Go
+
+---
 
 ### Technologies
 Some technologies I'm familiar with.
@@ -30,6 +34,8 @@ Some technologies I'm familiar with.
 - PHP
 - SilverStripe
 - NodeJS
+
+---
 
 ### Credits
 - Halo: Master Chief Collection (PC)
