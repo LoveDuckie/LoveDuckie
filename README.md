@@ -2,13 +2,33 @@
 ### Bio
 Software Engineer with 6 years experience in the British games industry, and 1 year in the Swiss investment banking industry.
 
+- 🔭 I’m currently working on an isometric dungeon crawler.
+- 🌱 I’m currently learning Docker and Kubernetes.
+- 💬 Ask me about .NET, C#, Unreal Engine, and C++
+- 📫 How to reach me: lucshelton@gmail.com
+
 ### Languages
+Some languages I use.
 - C++
 - C#
 - TypeScript
+- JavaScript
+
+### Learning
+- Kotlin
+- Go
 
 ### Technologies
+Some technologies I'm familiar with.
+#### Games Development
 - Unreal Engine 4
+#### Databases
+- **[MongoDB](https://www.mongodb.com/)** - A document-based non-relational database system.
+- **[MariaDB](https://mariadb.org/)** - A relational database system forked from MySQL.
+#### Web
+- **[Angular](https://angular.io/)** - A single-page application framework using TypeScript.
+- PHP
+- SilverStripe
 - NodeJS
 
 ### Credits
@@ -16,8 +36,6 @@ Software Engineer with 6 years experience in the British games industry, and 1 y
 - Dirty Bomb
 - Gears of War 4
 - Gears of War: Ultimate Edition
-
-
 
 <!--
 **LoveDuckie/LoveDuckie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
