@@ -14,7 +14,7 @@ Some languages I use.
 - TypeScript
 - JavaScript
 
-### Learning
+#### Learning
 - Kotlin
 - Go
 
