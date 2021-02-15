@@ -10,15 +10,18 @@ Software Engineer with 6 years experience in the British games industry, and 1 y
 ---
 
 ### Languages
-Some languages I use.
+Some of the languages I use in order of preference.
 - C++
 - C#
 - TypeScript
-- JavaScript
+- Python
 
 #### Learning
-- Kotlin
-- Go
+Some of the languages I am learning.
+- **Kotlin**
+-- TeamCity build configuration management.
+- **Go**
+-- For usage with Kubernetes and Terraform.
 
 ---
 
