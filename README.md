@@ -4,7 +4,7 @@ Software Engineer with 6 years experience in the British games industry, and 1 y
 
 - 🔭 I’m currently working on an isometric dungeon crawler.
 - 🌱 I’m currently learning Docker and Kubernetes.
-- 💬 Ask me about .NET, C#, Unreal Engine, and C++
+- 💬 Ask me about .NET, C#, Unreal Engine 4, and C++
 - 📫 How to reach me: lucshelton@gmail.com
 
 ---
