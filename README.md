@@ -32,8 +32,10 @@ Some technologies I'm familiar with.
 - [**Unreal Engine 4**](https://github.com/epicgames/unrealengine)
 - [**MonoGame**](https://github.com/monogame)
 #### Databases
-- **[MongoDB](https://www.mongodb.com/)** - A document-based non-relational database system.
-- **[MariaDB](https://mariadb.org/)** - A relational database system forked from MySQL.
+- **[MongoDB](https://www.mongodb.com/)**
+  - A document-based non-relational database system.
+- **[MariaDB](https://mariadb.org/)**
+  - A relational database system forked from MySQL.
 #### Web
 - **[Angular](https://angular.io/)** - A single-page application framework using TypeScript.
 - PHP
