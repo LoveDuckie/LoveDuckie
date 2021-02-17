@@ -37,10 +37,14 @@ Some technologies I'm familiar with.
 - **[MariaDB](https://mariadb.org/)**
   - A relational database system forked from MySQL.
 #### Web
-- **[Angular](https://angular.io/)** - A single-page application framework using TypeScript.
-- PHP
-- SilverStripe
-- NodeJS
+- **[Angular](https://angular.io/)**
+  - A single-page application framework using TypeScript.
+- **PHP**
+  - A popular general-purpose scripting language that is especially suited to web development.
+- **SilverStripe**
+  - CMS is the intuitive content management system and flexible framework loved by editors and developers alike.
+- **NodeJS**
+  - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ---
 
