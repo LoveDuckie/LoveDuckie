@@ -1,6 +1,6 @@
 ![Impression Image](https://i.imgur.com/6d95elJ.png)
 ### Bio
-Software Engineer with 6 years experience in the British games industry, and 1 year in the Swiss investment banking industry.
+Software Engineer with 8 years experience in the British games industry, and 1 year in the Swiss investment banking industry.
 
 - 🔭 I’m currently working on an isometric dungeon crawler.
 - 🌱 I’m currently learning Docker and Kubernetes.
