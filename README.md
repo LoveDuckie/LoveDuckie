@@ -26,6 +26,14 @@ Some of the languages and technologies I am learning.
 
 ---
 
+### Credits
+- [Halo: Master Chief Collection (PC)](https://lucshelton.com/projects/professional/halo-master-chief-collection/)
+- [Dirty Bomb](https://lucshelton.com/projects/professional/dirty-bomb/)
+- [Gears of War 4](https://lucshelton.com/projects/professional/gears-of-war-4/)
+- [Gears of War: Ultimate Edition](https://lucshelton.com/projects/professional/gears-of-war-ultimate-edition/)
+
+---
+
 ### Technologies
 Some technologies I'm familiar with.
 #### Games Development
@@ -45,14 +53,6 @@ Some technologies I'm familiar with.
   - CMS is the intuitive content management system and flexible framework loved by editors and developers alike.
 - **NodeJS**
   - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-
----
-
-### Credits
-- Halo: Master Chief Collection (PC)
-- Dirty Bomb
-- Gears of War 4
-- Gears of War: Ultimate Edition
 
 <!--
 **LoveDuckie/LoveDuckie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
