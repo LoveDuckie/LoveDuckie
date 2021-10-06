@@ -60,7 +60,7 @@ Some technologies I'm familiar with.
 ---
 
 
-## Badges
+### Badges
 
 <a href="https://app.daily.dev/LoveDuckie"><img src="https://api.daily.dev/devcards/2abd03549f3c42739d80deb2b414359d.png?r=rzm" width="400" alt="Luc Shelton's Dev Card"/></a>
 
