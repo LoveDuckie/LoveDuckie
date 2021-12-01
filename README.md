@@ -1,6 +1,8 @@
 ![Impression Image](https://i.imgur.com/6d95elJ.png)
-### Bio
-Software Engineer with 8 years experience in the British games industry, and 1 year in the Swiss investment banking industry.
+
+<h2 align="center">Bio</h2>
+
+Senior Software Engineer with 8 years experience in the British games industry, and 1 year in the Swiss investment banking industry.
 
 - 🔭 I’m currently working on an isometric dungeon crawler.
 - 🌱 I’m currently learning Docker and Kubernetes.
@@ -8,23 +10,6 @@ Software Engineer with 8 years experience in the British games industry, and 1 y
 - 📫 How to reach me: lucshelton@gmail.com
 
 **Website:** [www.lucshelton.com](https://www.lucshelton.com)
-
----
-
-### Languages
-Some of the languages I use in order of preference.
-- **C++**
-- **C#**
-- **PowerShell**
-- **TypeScript**
-- **Python**
-
-#### Learning
-Some of the languages and technologies I am learning.
-- **Kotlin**
-  - TeamCity build configuration management.
-- **Go**
-  - Development purposes with Kubernetes and Terraform.
 
 ---
 
@@ -36,31 +21,37 @@ Some of the languages and technologies I am learning.
 
 ---
 
-### Technologies
-Some technologies I'm familiar with.
-#### Games Development
-- [**Unreal Engine 4**](https://github.com/epicgames/unrealengine)
-- [**MonoGame**](https://github.com/monogame)
-#### Databases
-- **[MongoDB](https://www.mongodb.com/)**
-  - A document-based non-relational database system.
-- **[MariaDB](https://mariadb.org/)**
-  - A relational database system forked from MySQL.
-#### Web
-- **[Angular](https://angular.io/)**
-  - A single-page application framework using TypeScript.
-- **PHP**
-  - A popular general-purpose scripting language that is especially suited to web development.
-- **SilverStripe**
-  - CMS is the intuitive content management system and flexible framework loved by editors and developers alike.
-- **NodeJS**
-  - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+<h2 align="center">Languages</h2>
+
+<p align="center">
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+</p>
+
+<h2 align="center">Technologies</h2>
+
+<p align="center">
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+</p>
+
+<h2 align="center">Tools</h2>
+
+<p align="center">
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
+</p>
 
 
----
-
-
-### Badges
+<h2 align="center">Badges</h2>
 
 <a href="https://app.daily.dev/LoveDuckie"><img src="https://api.daily.dev/devcards/2abd03549f3c42739d80deb2b414359d.png?r=rzm" width="400" alt="Luc Shelton's Dev Card"/></a>
 
