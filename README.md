@@ -13,7 +13,8 @@ Senior Software Engineer with 8 years experience in the British games industry, 
 
 ---
 
-### Credits
+<h2 align="center">Credits</h2>
+
 - [Halo: Master Chief Collection (PC)](https://lucshelton.com/projects/professional/halo-master-chief-collection/)
 - [Dirty Bomb](https://lucshelton.com/projects/professional/dirty-bomb/)
 - [Gears of War 4](https://lucshelton.com/projects/professional/gears-of-war-4/)
