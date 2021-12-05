@@ -4,11 +4,6 @@
 
 Senior Software Engineer with 8 years experience in the British games industry, and 1 year in the Swiss investment banking industry.
 
-- 🔭 I’m currently working on an isometric dungeon crawler.
-- 🌱 I’m currently learning Docker and Kubernetes.
-- 💬 Ask me about .NET, C#, Unreal Engine 4, and C++
-- 📫 How to reach me: lucshelton@gmail.com
-
 **Website:** [www.lucshelton.com](https://www.lucshelton.com)
 
 <h2 align="center">Credits</h2>
