@@ -4,7 +4,7 @@
 
 Senior Software Engineer with 8 years experience in the British games industry, and 1 year in the Swiss investment banking industry.
 
-**Website:** [www.lucshelton.com](https://www.lucshelton.com)
+**Website:** [www.theloveduckie.codes](https://www.theloveduckie.codes)
 
 <h2 align="center">Credits</h2>
 
