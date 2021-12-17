@@ -1,4 +1,4 @@
-![Impression Image](https://i.imgur.com/6d95elJ.png)
+![Impression Image](https://user-images.githubusercontent.com/692378/146467491-78f58ee3-66e7-4f04-a501-cef16b3ec0e3.png)
 
 <h2 align="center">Bio</h2>
 
