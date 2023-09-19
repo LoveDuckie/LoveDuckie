@@ -2,7 +2,7 @@
 
 <h2 align="center">Bio</h2>
 
-Senior Software Engineer with 8 years experience in the British games industry, and 1 year in the Swiss investment banking industry.
+Senior Software Engineer with 10 years experience in the British games industry, and 1 year in the Swiss investment banking industry.
 
 **Website:** [www.lucshelton.com](https://www.lucshelton.com)
 
