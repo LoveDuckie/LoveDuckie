@@ -45,7 +45,9 @@ Senior Software Engineer with 10 years experience in the British games industry,
 
 <h2 align="center">Badges</h2>
 
-<a href="https://app.daily.dev/LoveDuckie"><img src="https://api.daily.dev/devcards/2abd03549f3c42739d80deb2b414359d.png?r=rzm" width="400" alt="Luc Shelton's Dev Card"/></a>
+<div align="center">
+  <a href="https://app.daily.dev/LoveDuckie"><img src="https://api.daily.dev/devcards/2abd03549f3c42739d80deb2b414359d.png?r=rzm" width="400" alt="Luc Shelton's Dev Card"/></a>
+</div>
 
 <!--
 **LoveDuckie/LoveDuckie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
