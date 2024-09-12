@@ -16,7 +16,6 @@ Senior Software Engineer with 10 years experience in the British games industry,
 <h2 align="center">Languages</h2>
 
 <p align="center">
-  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
   <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
@@ -29,6 +28,7 @@ Senior Software Engineer with 10 years experience in the British games industry,
 <h2 align="center">Technologies</h2>
 
 <p align="center">
+  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />  
   <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
   <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
   <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
